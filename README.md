@@ -19,3 +19,8 @@ This is a Simple Collection of Knowledges related to **Anormaly Detection based 
 
 ​	Related Paper:
 
+**[3] Learning Deep Features for One-Class Classification**
+
+​	CODE:
+
+​	Related Paper: https://arxiv.org/pdf/1801.05365.pdf
