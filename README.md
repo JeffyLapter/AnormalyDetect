@@ -21,7 +21,15 @@ http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf
 
 ##### Related Paper[2]:
 
+关于OCSVM与SVDD的理解
+
 https://blog.csdn.net/WangZixuan1111/article/details/106612305
+
+**Related Paper[3]:**
+
+[PED09]Deep one-class classification笔记
+
+https://blog.csdn.net/zpainter/article/details/88619865
 
 ------
 
@@ -44,6 +52,18 @@ https://mattzheng.blog.csdn.net/article/details/76647272
 关于OCSVM与SVDD的理解
 
 https://blog.csdn.net/WangZixuan1111/article/details/106612305
+
+**Related Paper[3]:**
+
+什么是一类支持向量机（one class SVM）
+
+https://www.zhihu.com/question/22365729/answer/115048306
+
+**Related Paper[4]:**
+
+One-Class SVM介绍
+
+https://zhuanlan.zhihu.com/p/32784067
 
 ------
 
